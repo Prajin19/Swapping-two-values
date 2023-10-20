@@ -30,6 +30,7 @@ a=temp
 print("The swapped values are",a,"and",b)
 ```
 ## OUTPUT:
+![Swapping](https://github.com/Prajin19/Swapping-two-values/assets/144979377/a6e01a67-2df5-4e63-b99a-d7fffc3465e7)
 
 
 ## RESULT:
